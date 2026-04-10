@@ -8,7 +8,7 @@ keep_vars=true
 [[d1_databases]]
 binding = "TEMP_MAIL_DB"
 database_name = "maill_free_db" #你的d1数据库名称
-database_id = "8316ffa2-d1f1-40e8-afc9-a9457bb5c4e9" # 你的database_id
+database_id = "30aeec4a-b26f-438c-89de-a6c0648527b0" # 你的database_id
 # 登录会话过期时间（单位：天，默认7天）
 # 环境变量
 [vars]
